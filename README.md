@@ -2,6 +2,8 @@
 
 You have now done a couple of hypothesis tests and that we have also started to look at some of the theory.  You should thus be getting a bit more comfortable with this flowchart:
 
+![](hypo-testing.001.jpeg)
+
 Thus far we have performed hypothesis tests for samples taken from normal distributions.  In this exercise, by contrast, we are going to suppose that we are gambling against a character with dubious morals.  We are playing a game which we have fixed odds of winning with this reprobate and we have a suspicion that he may have lied to us when he told us these odds.  What, therefore, can we do to test if our suspicions are correct or not?
 
 Let's suppose that our probability of winning each game is we place 1/3 and the outcomes for the first 20 games we have played are given in the file `games.dat`.  The ones in this file indicate the games that we won and the zeros the ones we lost.  Can we do a hypothesis test with this data?
